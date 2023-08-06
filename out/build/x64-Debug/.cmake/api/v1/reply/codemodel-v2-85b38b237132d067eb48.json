@@ -1,0 +1,74 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"childIndexes" : 
+					[
+						1
+					],
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.8"
+					},
+					"projectIndex" : 0,
+					"source" : "."
+				},
+				{
+					"build" : "src",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.8"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "src",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0,
+						1
+					],
+					"name" : "28-3-online-restaurant-kitchen",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 1,
+					"id" : "28-3-online-restaurant-kitchen::@145eef247bfb46b6828c",
+					"jsonFile" : "target-28-3-online-restaurant-kitchen-Debug-b0a9f1c0fe9c1c1e7ee4.json",
+					"name" : "28-3-online-restaurant-kitchen",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/Users/Svyatoslav/Desktop/C++/skillbox_homework/28/28-3-online-restaurant-kitchen/out/build/x64-Debug",
+		"source" : "C:/Users/Svyatoslav/Desktop/C++/skillbox_homework/28/28-3-online-restaurant-kitchen"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 0
+	}
+}

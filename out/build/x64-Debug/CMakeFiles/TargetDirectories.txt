@@ -1,0 +1,5 @@
+C:/Users/Svyatoslav/Desktop/C++/skillbox_homework/28/28-3-online-restaurant-kitchen/out/build/x64-Debug/CMakeFiles/edit_cache.dir
+C:/Users/Svyatoslav/Desktop/C++/skillbox_homework/28/28-3-online-restaurant-kitchen/out/build/x64-Debug/CMakeFiles/rebuild_cache.dir
+C:/Users/Svyatoslav/Desktop/C++/skillbox_homework/28/28-3-online-restaurant-kitchen/out/build/x64-Debug/src/CMakeFiles/28-3-online-restaurant-kitchen.dir
+C:/Users/Svyatoslav/Desktop/C++/skillbox_homework/28/28-3-online-restaurant-kitchen/out/build/x64-Debug/src/CMakeFiles/edit_cache.dir
+C:/Users/Svyatoslav/Desktop/C++/skillbox_homework/28/28-3-online-restaurant-kitchen/out/build/x64-Debug/src/CMakeFiles/rebuild_cache.dir
